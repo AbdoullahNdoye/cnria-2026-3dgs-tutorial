@@ -1,0 +1,16 @@
+# COLMAP temporary files
+database.db
+project.ini
+
+# Build files
+build/
+CMakeFiles/
+CMakeCache.txt
+
+# LibTorch archives
+libtorch/
+*.zip
+
+# Temporary files
+*.tmp
+*.log
